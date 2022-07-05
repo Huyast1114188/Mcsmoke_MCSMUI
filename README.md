@@ -2,7 +2,7 @@
 大家好我是Huyast1111
 这个是我在2022/7/5启动的项目
 为MCSM的前端Ui
-采用FastJs 为前端框架
+采用[FastJs](fastjs.com.cn) 为前端框架
 
 --------------------------
 # Mcsmoke_ MCSMUI
