@@ -1,9 +1,9 @@
 # Mcsmoke_MCSMUI
-大家好我是Huyast1111
-这个是我在2022/7/5启动的项目
+此项目在2022/7/5正式启用
+预计2022-7-10更新第一代版本
 为MCSM的前端Ui
 采用[FastJs](fastjs.com.cn) 为前端框架
-预计2022-7-10更新第一代版本
+FastJs为14岁个人开发者DyXiaodong开发
 --------------------------
 # Mcsmoke_ MCSMUI
 Hello, I'm huyast1111This is the project.
